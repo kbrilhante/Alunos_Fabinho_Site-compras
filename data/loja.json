@@ -1,0 +1,20 @@
+{
+    "cadernoOsEstrangeiros": {
+        "item": "Caderno",
+        "colecao": "Os Estrangeiros",
+        "preco": 14.9,
+        "imagem": "./img/nomeDoArquivo.png"
+    },
+    "bonecoOsEstrangeiros": {
+        "item": "Boneco",
+        "colecao": "Os Estrangeiros",
+        "preco": 41.90,
+        "imagem": "./img/nomeDoArquivo.png"
+    },
+    "canecaOsEstrangeiros": {
+        "item": "Caneca",
+        "colecao": "Os Estrangeiros",
+        "preco": 6.9,
+        "imagem": "./img/nomeDoArquivo.png"
+    }
+}
