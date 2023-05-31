@@ -3,66 +3,66 @@
     "item": "Caderno",
     "colecao": "Os Estrangeiros",
     "preco": 14.9,
-        "imagem": "./img/estrangeirosCaderno.jpg"
+        "imagem": "./img/estrangeirosCaderno.png"
     },
     "Caneca Os Estrangeiros": {
         "item": "Caneca",
         "colecao": "Os Estrangeiros",
         "preco": 6.9,
-        "imagem": "./img/estrangeirosCaneca.jpg"
+        "imagem": "./img/estrangeirosCaneca.png"
     },
     "Bonecos Os Estrangeiros": {
         "item": "Bonecos",
         "colecao": "Os Estrangeiros",
         "preco": 41.9,
-        "imagem": "./img/nomeDoArquivo.jpg"
+        "imagem": ""
     },
     "Capinha Os Estrangeiros": {
         "item": "Capinha",
         "colecao": "Os Estrangeiros",
         "preco": 41.9,
-        "imagem": "./img/estrangeirosCapinha.jpg"
+        "imagem": "./img/estrangeirosCapinhaCelular.png"
     },
     "Almofada Os Estrangeiros": {
         "item": "Almofada",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/estrangeirosAlmofada.jpg"
+        "imagem": "./img/estrangeirosAlmofada.png"
     },
     "Camiseta Os Estrangeiros": {
         "item": "Camisa",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/Os EstrangeirosCamiseta.jpg"
+        "imagem": "./img/estrangeirosCamiseta.png"
     },
     "Copo de Café Os Estrangeiros": {
         "item": "Copo de Café",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/estrangeirosCopoCafe.jpg"
+        "imagem": "./img/estrangeirosCopoCafe.png"
     },
     "Moletom Os Estrangeiros": {
         "item": "Moletom",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/estrangeirosMoletom.jpg"
+        "imagem": "./img/estrangeirosAgasalho.png"
     },
     "Sacola Os Estrangeiros": {
         "item": "Moletom",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/estrangeirosSacola.jpg"
+        "imagem": "./img/estrangeirosSacola.png"
     },
     "Garrafinha Os Estrangeiros": {
         "item": "Garrafinha de Água",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/estrangeirosGarrafa.jpg"
+        "imagem": "./img/estrangeirosGarrafa.png"
     },
     "Livro Os Estrangeiros": {
         "item": "Livro",
         "colecao": "Os Estrangeiros",
         "preco": 14.9,
-        "imagem": "./img/Os EstrangeirosLivro.jpg"
+        "imagem": "./img/estrangeirosLivro.png"
     }
 }
